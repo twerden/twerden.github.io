@@ -1,0 +1,29 @@
+body{
+    background-color: #ccdbf5;
+    background-image: url(graphics/UNCLOGO.png);
+    background-repeat: no-repeat;
+
+}
+
+h1, h3{
+    color: green;
+
+}
+
+h1{
+font-size: 25px;
+
+}
+
+hr{
+
+    color: red;
+    height: 10px;
+    width: 50%;
+}
+
+p{
+font-family: 'Poor Story', cursive;
+font-size: 32px;
+
+}
