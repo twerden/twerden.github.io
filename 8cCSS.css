@@ -2,11 +2,9 @@ body{
     background-color: #c18244;
     border-style: solid;
         border-color: black;
-
 }
-h1{     position: absolute; left: 100px; top: -10px;
 
-}
+
 p{
     font-family: 'Lato';
     font-size: 30px;
